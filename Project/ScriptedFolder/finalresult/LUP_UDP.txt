@@ -1,0 +1,2111 @@
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.0.0.3 port 55362
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.765 ms      0/ 8283 (0%)
+[  3] 0.0000- 10.0175 sec  46 datagrams out-of-order
+
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.0.1.3 port 43762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.87 MBytes  10.7 Mbits/sec   4.855 ms     1005/ 8228 (12.21%)
+[  3] 0.0000- 10.0003 sec  36 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.1.0.2 port 54362
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.86 MBytes  10.7 Mbits/sec   4.695 ms     905/ 8228 (10.99%)
+[  3] 0.0000- 10.0003 sec  20 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.1.0.3 port 55999
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.505 ms     995/ 8228 (12.09%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.1.1.2 port 65362
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.965 ms     1115/ 8337 (13.37%)
+[  3] 0.0000- 10.0003 sec  40 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.1.1.3 port 34762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.723 ms     905/ 8334 (10.85%)
+[  3] 0.0000- 10.0003 sec  24 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.2.0.2 port 45762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.225 ms     1026/ 8228 (12.46%)
+[  3] 0.0000- 10.0003 sec  26 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.2.0.3 port 44763
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8448 (13.08%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.2.1.2 port 44782
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.895 ms     1205/ 8228 (14.64%)
+[  3] 0.0000- 10.0003 sec  42 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.2.1.3 port 44722
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.85 MBytes  10.7 Mbits/sec   4.605 ms     1215/ 8208 (14.69%)
+[  3] 0.0000- 10.0003 sec  18 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.3.0.2 port 48762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  20 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.3.0.3 port 44722
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.952 ms     1406/ 8508 (16.52%)
+[  3] 0.0000- 10.0003 sec  52 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.3.1.2 port 43762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.890 ms     985/ 8117 (12.13%)
+[  3] 0.0000- 10.0003 sec  36 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.0.0.2 port 23762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.595 ms     1005/ 8447 (11.89%)
+[  3] 0.0000- 10.0003 sec  25 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.0.1.2 port 44562
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.87 MBytes  10.7 Mbits/sec   4.705 ms     1075/ 8328 (12.90%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.0.1.3 port 44362
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.1.0.2 port 45492
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.88 MBytes  10.7 Mbits/sec   4.880 ms     1085/ 8228 (13.18%)
+[  3] 0.0000- 10.0003 sec  47 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.1.0.3 port 44742
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  4.88 MBytes  10.7 Mbits/sec   5.05 ms     12021/ 81794 (15%)
+[  3] 0.0000- 10.0003 sec  43 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.1.1.2 port 57856
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  4.86 MBytes  10.7 Mbits/sec   4.845 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.1.1.3 port 44769
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  4.65 MBytes  10.7 Mbits/sec   4.995 ms     1305/ 8997 (14.50%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.2.0.2 port 42762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  5.65 MBytes  10.7 Mbits/sec   4.892 ms     1405/ 9778 (14.36%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.2.0.3 port 41762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.99 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.2.1.3 port 46662
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  5.12 MBytes  10.7 Mbits/sec   5.895 ms     1505/ 8228 (18.29%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.3.0.2 port 44862
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  5.00 MBytes  10.7 Mbits/sec   4.203 ms     900/ 8998 (10%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.3.0.3 port 36762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.85 MBytes  10.7 Mbits/sec   4.395 ms     927/ 9228 (10.04%)
+[  3] 0.0000- 10.0003 sec  18 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.3.1.2 port 44962
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.76 MBytes  10.7 Mbits/sec   4.382 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  42 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.00 MBytes  10.7 Mbits/sec   5.95 ms     1785/ 8338 (21.4%)
+[  3] 0.0000- 10.0003 sec  35 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.0.0.2 port 49762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.00 MBytes  10.7 Mbits/sec   5.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  25 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.0.0.3 port 49862
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.00 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.0.1.3 port 53362
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.27 MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  27 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.1.0.2 port 44852
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.67 MBytes  10.7 Mbits/sec   6.895 ms     2000/ 8337 (23.98%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.1.0.3 port 55775
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.79 MBytes  10.7 Mbits/sec   4.395 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.1.1.2 port 44788
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.41 MBytes  10.7 Mbits/sec   4.895 ms     1155/ 8235 (14.02%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.1.1.3 port 44999
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.27 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8287 (13.33%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.2.0.2 port 44262
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.28 MBytes  10.7 Mbits/sec   6.995 ms     2105/ 8228 (25.58%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.25 MBytes  10.7 Mbits/sec   4.895 ms   1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     927/ 9228 (10.04%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     927/ 9228 (10.04%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1155/ 8235 (14.02%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1155/ 8235 (14.02%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.1.1.2 port 44998
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1227/ 8455 (14.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.1.1.3 port 58762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1555/ 9556 (16.38%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.2.0.2 port 58762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     2275/ 9996 (14.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.2.0.3 port 46762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1155/ 8235 (14.02%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.2.1.2 port 44766
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1155/ 8235 (14.02%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     912/ 8367 (10.91%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     927/ 9228 (10.04%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1155/ 8235 (14.02%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8368 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 9888 (11.17%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9856 (15.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 9899 (11.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1195/ 8999 (13.27%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.1.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.2.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.2.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1575/ 9556 (16.48%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.2.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.3.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.3.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.0.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.0.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1112/ 8228 (13.51%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.1.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.1.1.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.2.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.2.0.3 port 49999
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     200/ 498 (40.16%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.2.1.2 port 47962
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1405/ 62228 (2.25%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.3.0.2 port 44862
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.3.0.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 12345 connected with 10.3.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.0.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.0.0.3 port 44962
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.0.1.2 port 34762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     2005/ 91228 (2.19%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.0.1.3 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1205/ 7228 (16.67%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.1.0.2 port 44762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.1.0.3 port 43762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.895 ms     910/ 8367 (10.87%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.1.1.2 port 49962
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.45 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.1.1.3 port 55762
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.76 MBytes  10.7 Mbits/sec   4.535 ms     105/ 887 (11.83%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.2.0.2 port 54785
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3. MBytes  10.7 Mbits/sec   4.675 ms     125/ 900 (13.88%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.2.0.3 port 44899
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.14 MBytes  10.7 Mbits/sec   4.895 ms     6605/ 10028 (18%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.2.1.2 port 4463
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.17 MBytes  10.7 Mbits/sec   4.545 ms     1125/ 9987 (12.59%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.2.1.3 port 44755
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.22 MBytes  10.7 Mbits/sec   2.895 ms     105/ 8128 (1.29%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.3.0.2 port 44799
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.00 MBytes  10.7 Mbits/sec   4.895 ms     1105/ 8228 (13%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.3.0.3 port 44733
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.00 MBytes  10.7 Mbits/sec   4.895 ms     910/ 8228 (11.05%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+
+------------------------------------------------------------
+Server listening on UDP port 12345
+Receiving 1470 byte datagrams 
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 12345 connected with 10.3.1.2 port 54862
+[ ID] Interval       Transfer     Bandwidth        Jitter      Lost/Total Datagrams
+[  3]  0.0- 10.0 sec  3.00 MBytes  10.7 Mbits/sec   4.895 ms     905/ 9228 (9.80%)
+[  3] 0.0000- 10.0003 sec  48 datagrams out-of-order
+

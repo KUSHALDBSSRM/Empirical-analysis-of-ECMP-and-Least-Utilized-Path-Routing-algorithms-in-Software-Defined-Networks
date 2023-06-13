@@ -1,0 +1,72 @@
+../lib/results/fattree-ecmp/stride1_data------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+------------------------------------------------------------
+Server listening on TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+
+../lib/results/fattree-ecmp/stride1_dataconnect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+
+connect failed: Connection refused
+

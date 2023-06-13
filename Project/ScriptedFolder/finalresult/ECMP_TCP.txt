@@ -1,0 +1,2114 @@
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 58870 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 48580 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 53124 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  144 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 42724 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 58986 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 51830 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 40708 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 53674 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 44960 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.97 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 38224 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 51758 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 34904 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 34008 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  3.88 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 46184 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 38564 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 48206 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+../lib/results/fattree-ecmp/hotspot_one_to_one_data------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 55362 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 54056 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 44382 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 54502 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  4.00 MBytes  11.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 52144 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  119 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 35344 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 60296 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 53898 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 55100 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 51024 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 41474 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 56660 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 43012 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  4.00 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 38512 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 50730 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 38588 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 57296 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 45906 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 54292 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 55640 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 43732 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 47078 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 54970 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 34288 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  4.00 MBytes  11.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 59228 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  144 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 58394 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.8 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 39796 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.86 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 41444 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 35670 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 33996 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  4.00 MBytes  11.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 60218 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43338 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 58094 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 36942 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 36244 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 51214 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 36576 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.98 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 58446 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 43010 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 51904 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 46216 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 45538 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 54530 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 35458 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 54456 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 34872 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 41592 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 55998 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  4.00 MBytes  11.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 38748 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 43014 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 53950 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 47102 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 34988 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  3.62 MBytes  9.55 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 60916 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.97 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 54088 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 41554 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 36182 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 49914 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 54290 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 50780 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 52000 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 39068 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 41592 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 55998 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  4.00 MBytes  11.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 38748 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 43014 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 53950 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 47102 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 34988 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  3.62 MBytes  9.55 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 60916 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.97 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 54088 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 41554 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 36182 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 49914 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 54290 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 50780 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 52000 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 39068 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 37752 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 49778 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 50788 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 43922 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  4.00 MBytes  11.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 57554 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 49512 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 60154 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 53474 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 49768 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 33752 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 55022 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  3.84 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 45676 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  4.00 MBytes  11.0 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 47850 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 43136 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 36498 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size: 93.5 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 38880 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.96 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 37308 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 50110 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 51896 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 46162 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.51 MBytes  9.70 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 51570 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 38428 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 42950 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.98 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 47064 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  119 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 53598 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.84 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 44014 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 48762 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.83 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 38686 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 57514 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 39320 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.70 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 38588 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 49436 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 34312 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  3.88 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 33842 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 42954 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.6 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 40800 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 47234 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 38720 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 55146 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 33412 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 51574 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  4.00 MBytes  10.6 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 55746 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 40572 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 50108 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size: 93.5 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 39066 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.69 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 50680 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 50388 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+../lib/results/fattree-ecmp/random_2_flows_data------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43590 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.54 MBytes  12.9 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 41486 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 36772 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.59 MBytes  13.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 41844 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.45 MBytes  11.8 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 56828 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.58 MBytes  12.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  119 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 40672 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 59438 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.62 MBytes  13.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  374 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 40708 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 33360 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.38 MBytes  11.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 43262 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.24 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 48036 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.62 MBytes  13.6 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 52238 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.62 MBytes  13.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 51584 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.62 MBytes  13.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 41580 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.63 MBytes  13.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 39348 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.64 MBytes  13.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 36082 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 37884 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.33 MBytes  11.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 60912 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.61 MBytes  13.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 34066 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.47 MBytes  12.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 59926 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.66 MBytes  13.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 48994 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.54 MBytes  12.9 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 40710 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.62 MBytes  13.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 37486 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.51 MBytes  12.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 48128 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.62 MBytes  13.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 33206 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 37898 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.6 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 54366 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.59 MBytes  12.9 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 36964 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.43 MBytes  12.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 59602 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 47148 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.45 MBytes  12.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 46564 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.50 MBytes  12.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 37380 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.59 MBytes  13.2 Mbits/sec
+
+../lib/results/fattree-ecmp/stag_prob_0_5_3_data------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43338 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 58094 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 36942 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 36244 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 51214 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 36576 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.98 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 58446 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 43010 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 51904 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 46216 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 45538 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 54530 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 35458 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 54456 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 34872 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 54924 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 44992 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  3.88 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 55682 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 60304 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 42524 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 43394 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 56482 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 34590 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 47634 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 60702 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 53558 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 41320 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.5 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 35648 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 53484 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  4.00 MBytes  11.0 Mbits/sec
+
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  119 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 52514 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 32904 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 57940 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 36062 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 54952 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 38496 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  144 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 33346 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 38204 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 49240 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 57910 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 45798 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 34062 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.98 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 37094 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.99 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 56360 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 49244 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  119 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 52514 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 32904 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 57940 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 36062 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 54952 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 38496 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  144 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 33346 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+connect failed: Connection refused
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 38204 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 49240 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 57910 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 45798 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 34062 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.98 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 37094 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.99 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 56360 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 49244 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  153 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 57284 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 43048 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 50486 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 33540 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.6 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 59882 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  9.98 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 58572 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 60354 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 37150 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 48726 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 38850 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 47580 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 50700 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  162 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 39448 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 55142 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.4 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  110 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 36146 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 44882 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  4.00 MBytes  10.8 Mbits/sec
+
+Client connecting to 10.0.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 49642 connected with 10.0.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.3, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 53532 connected with 10.0.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.75 MBytes  10.5 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.2 port 49806 connected with 10.2.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.71 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.1.3 port 58000 connected with 10.0.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.3, TCP port 12345
+TCP window size:  187 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.2 port 57526 connected with 10.1.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.0.3 port 34982 connected with 10.1.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.2 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.2, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 37880 connected with 10.3.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.1.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.3 port 53140 connected with 10.3.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.2 port 55104 connected with 10.2.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.0.3 port 56668 connected with 10.2.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.70 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.2.1.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.2 port 50032 connected with 10.2.1.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.62 MBytes  9.97 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.2.1.3 port 37920 connected with 10.1.1.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.2 sec  4.00 MBytes  10.6 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.3, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 58820 connected with 10.3.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.75 MBytes  10.1 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.3.0.2, TCP port 12345
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.3 port 58322 connected with 10.3.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.62 MBytes  10.0 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, TCP port 12345
+TCP window size:  136 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.2 port 42132 connected with 10.0.0.2 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.1 sec  3.88 MBytes  10.3 Mbits/sec
+
+------------------------------------------------------------
+Client connecting to 10.1.0.3, TCP port 12345
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.1.3 port 38762 connected with 10.1.0.3 port 12345
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 3.0 sec  3.88 MBytes  10.7 Mbits/sec
+
+
